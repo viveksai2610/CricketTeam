@@ -1,0 +1,4 @@
+GET http://localhost:3020/players/
+
+###
+GET http://localhost:3020/players/5
